@@ -10,6 +10,11 @@ This project analyzes sales data across three product categories - Office Suppli
 ## Dataset 
 <a href ="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis/blob/main/salesdata.csv">Download Dataset<a/>
 
+
+## My original Project File - 
+
+<a href ="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis/blob/main/salesdata%20-%20SOLUTION.xlsx">View Project File</a>
+
 **Process:**
 
 1. **Data Cleaning:** Data was cleaned and prepared for analysis, including formatting, sorting, extracting month and year from date columns, removing duplicates, and handling missing values.
@@ -20,6 +25,7 @@ This project analyzes sales data across three product categories - Office Suppli
     *   Top 5 Customers: Pie chart to visualize the sales contribution of the top 5 customers.
     *   Sales by State: Map chart to visualize the geographical distribution of sales across different states.
     *   Customer Count by Year: Bar chart to show the growth in customer base over the years.
+3. **Dashboard:** <a href ="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis/blob/main/SALES%20DASHBOARD.png">View Dashboard</a>
 
 **Key Findings:**
 

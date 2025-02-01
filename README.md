@@ -1,4 +1,4 @@
-## Sales Dashboard Analysis - Microsoft Excel
+# Sales Dashboard Analysis - Microsoft Excel
 
 **Project Objective:**
 
@@ -7,7 +7,7 @@ This project analyzes sales data across three product categories - Office Suppli
 ![SALES DASHBOARD](https://github.com/user-attachments/assets/fa4b5bc2-d3c9-4d30-ab4c-e04914080831)
 
 
-# Dataset 
+## Dataset 
 <a href ="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis/blob/main/salesdata.csv">Download Dataset<a/>
 
 **Process:**

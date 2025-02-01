@@ -7,7 +7,9 @@ This project analyzes sales data across three product categories - Office Suppli
 ![SALES DASHBOARD](https://github.com/user-attachments/assets/fa4b5bc2-d3c9-4d30-ab4c-e04914080831)
 
 
-# Dataset - <a href ="">Download Dataset<a/>
+# Dataset - 
+<a href ="https://github.com/angelinanayak000/Excel---Sales-Dashboard-Data-Analysis/blob/main/salesdata.csv">Download Dataset<a/>
+
 **Process:**
 
 1. **Data Cleaning:** Data was cleaned and prepared for analysis, including formatting, sorting, extracting month and year from date columns, removing duplicates, and handling missing values.
